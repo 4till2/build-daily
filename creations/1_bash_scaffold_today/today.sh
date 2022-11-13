@@ -1,6 +1,6 @@
 #!/bin/bash
 
-path=projects
+path=creations
 entry_num=`expr $(ls $path | wc -l) + 1`
 title=$1
 date=$(date +%F)
