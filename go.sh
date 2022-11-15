@@ -1,1 +1,1 @@
-./creations/1_bash_scaffold_today/today.sh $1
+./creations/01_scaffold_creation/today.sh $1
